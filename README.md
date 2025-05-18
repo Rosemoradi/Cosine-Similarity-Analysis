@@ -82,7 +82,7 @@ You’ll walk away knowing not only how to use embeddings—but how they work.
 
 **Razieh Moradi**
 Graduate Student, McMaster University
-📫 [your.email@example.com](mailto:your.email@example.com)
+📫 moradr1@mcmaster.ca
 
 ---
 
