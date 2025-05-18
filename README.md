@@ -2,7 +2,7 @@
 Here I explored word semantics using GloVe word embeddings. Includes cosine similarity analysis, vector operations (e.g., king - man + woman = queen), and PCA-based visualization. This NLP project highlights how pretrained word vectors can model analogies and semantic similarity
 
 
-# 🧠 Word Embeddings, Semantic Similarity & Analogies with GloVe (NLP Project)
+#  Word Embeddings, Semantic Similarity & Analogies with GloVe (NLP Project)
 
 This project is an educational deep dive into **word embeddings** using **GloVe (Global Vectors for Word Representation)**. Word embeddings are numerical vector representations of words that capture semantic meaning based on the context in which words appear. In this notebook, we explore how GloVe vectors allow us to perform **semantic similarity**, solve **analogies**, and **visualize word relationships** using dimensionality reduction—all in an intuitive, beginner-friendly way.
 
@@ -22,7 +22,7 @@ This notebook demonstrates how GloVe embeddings can be loaded and used to:
 
 ---
 
-## 🧪 What This Notebook Covers
+##  What This Notebook Covers
 
 1. **Loading GloVe Vectors**  
    We load `glove.6B.100d.txt`, which contains 100-dimensional word embeddings for over 400,000 words. Each word vector is parsed and stored in a Python dictionary for fast lookup.
@@ -55,7 +55,7 @@ This notebook demonstrates how GloVe embeddings can be loaded and used to:
 
 ---
 
-## 🎓 Educational Value
+##  Educational Value
 
 This notebook is not just a technical demonstration—it’s a learning tool. It teaches you:
 
@@ -70,7 +70,7 @@ This project builds intuition for how advanced models like BERT, GPT, and other 
 
 
 
-## 📍 Why This Project Matters
+##  Why This Project Matters
 
 Understanding how language can be converted into vectors—and how those vectors encode real relationships—is foundational to modern AI. This project helps demystify how machines learn about language and gives you hands-on skills for future NLP applications.
 
@@ -78,15 +78,15 @@ You’ll walk away knowing not only how to use embeddings—but how they work.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Razieh Moradi**
 Graduate Student, McMaster University
-📫 moradr1@mcmaster.ca
+ moradr1@mcmaster.ca
 
 ---
 
-## 📎 References
+##  References
 
 * [Stanford GloVe Project](https://nlp.stanford.edu/projects/glove/)
 * Jurafsky & Martin, *Speech and Language Processing*
